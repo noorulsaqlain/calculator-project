@@ -5,7 +5,7 @@ int num1=convert.ToInt32("Console.ReadLine") ;
 console. writeline("enter second number") ;
 int num2=convert.ToInt32("Console.ReadLine") ;
 =
-
+a+b
 
 // Divide
 num = num1/num2;
